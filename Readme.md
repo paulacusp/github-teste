@@ -37,5 +37,9 @@ git diff --name-only
 git log
 
 
+# git reset HEAD # que voltar o meu pnteiro
+	git diff
+	git checkout <nome do arquivo>
+	git status
 
 
