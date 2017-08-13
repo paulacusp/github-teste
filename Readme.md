@@ -29,5 +29,13 @@ git show 45c251104bd91c18ea386537844c9583357b4c6a
 
 git status
 
+git diff
+
+git diff --name-only
+
+# resetar erros
+git log
+
+
 
 
