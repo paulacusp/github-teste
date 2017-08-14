@@ -52,3 +52,29 @@ git reset --mixed
 git reset --hard
 
 #dados
+
+criando o branch
+
+git checkout -b test
+
+deletando branch
+
+git branch -D <nome>
+
+unindo branch
+
+#pull de repositorio remoto e vc tem coisas fazendo
+
+git stash
+git apply
+git stash list
+git stash clear
+
+reduzir o nome do comando
+git config --global alias.s status
+
+definir funções
+
+git tag -a 1.0.0 -m "dados"
+
+Finalizado!
