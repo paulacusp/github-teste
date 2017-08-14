@@ -42,5 +42,11 @@ git log
 	git checkout <nome do arquivo>
 	git status
 
+git checkout antes de dar commit
 
-hxwgdwefg 3yuhf
+
+git reset --soft
+
+git reset --mixed
+
+git reset --hard
